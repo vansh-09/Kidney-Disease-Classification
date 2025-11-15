@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: cnnClassifier
-Version: 0.0.0
+Version: 0.0.1
 Summary: A small python package for CNN app
 Home-page: https://github.com/vansh-09/Kidney-Disease-Classification
 Author: vansh-09
